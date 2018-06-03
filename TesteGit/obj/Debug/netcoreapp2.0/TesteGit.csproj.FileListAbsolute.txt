@@ -1,0 +1,11 @@
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\bin\Debug\netcoreapp2.0\TesteGit.deps.json
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\bin\Debug\netcoreapp2.0\TesteGit.runtimeconfig.json
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\bin\Debug\netcoreapp2.0\TesteGit.runtimeconfig.dev.json
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\bin\Debug\netcoreapp2.0\TesteGit.dll
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\bin\Debug\netcoreapp2.0\TesteGit.pdb
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\obj\Debug\netcoreapp2.0\TesteGit.csprojAssemblyReference.cache
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\obj\Debug\netcoreapp2.0\TesteGit.csproj.CoreCompileInputs.cache
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\obj\Debug\netcoreapp2.0\TesteGit.AssemblyInfoInputs.cache
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\obj\Debug\netcoreapp2.0\TesteGit.AssemblyInfo.cs
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\obj\Debug\netcoreapp2.0\TesteGit.dll
+E:\Curso Programação Orientada  a Objeto C#\Projetos\TesteGit\TesteGit\obj\Debug\netcoreapp2.0\TesteGit.pdb
